@@ -1,0 +1,28 @@
+{
+  "name": "my-image-hosting",
+  "version": "1.0.0",
+  "description": "A simple image hosting platform built with Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "next.js",
+    "image hosting",
+    "upload"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^2.0.1",
+    "next": "13.0.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
+  },
+  "devDependencies": {
+    "eslint": "8.0.0",
+    "eslint-config-next": "13.0.0"
+  }
+}
